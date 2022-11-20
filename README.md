@@ -1,5 +1,5 @@
 # smart-mirror-prototype
-First prototype of a smart mirror program, written in JavaScript using p5.js and Google's Teachable Machines
+First prototype of a smart mirror program, written in JavaScript using p5.js and ML5
 
 Link to sketch: https://editor.p5js.org/thimas/sketches/R-peFYlYZ
 
