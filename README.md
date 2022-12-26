@@ -6,3 +6,5 @@ Link to sketch: https://editor.p5js.org/thimas/sketches/R-peFYlYZ
 May need calibration depending on webcam used and other factors. 
 
 Originally created with the help of a gesture detection template.
+Link to a video of the project:
+https://ruc-thirdroom.dk/project/smartmirror/
